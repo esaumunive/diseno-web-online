@@ -58,7 +58,7 @@ header #avatar
 }
 header #avatar img
 {
-	border-radius: 50%;
+	border-radius: 70%;
 	width: 55px;
 }
 header #logo img
@@ -178,13 +178,3 @@ nav ul li a
 {
 	float: right;
 }
-
-
-
-
-
-
-
-
-
-
