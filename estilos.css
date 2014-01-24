@@ -316,6 +316,15 @@ nav ul #publicar_nav a:hover{
 
 
 }
+.centrarvertical {
+	
+	text-align: center;
+	background: red;
+	color: white;
+	/* PARA centrar un div verticalmente*/
+	height: 200px;
+	line-height: 200px;/* el mismo pixel que con el height*/
+}
 
 
 
